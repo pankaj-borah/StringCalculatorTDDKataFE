@@ -1,5 +1,5 @@
 import Calculator from "./Calculator";
-import "./app.css"
+import "./App.css"
 function App() {
   return (
     <div className="App">
